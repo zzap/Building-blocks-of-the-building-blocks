@@ -761,3 +761,4 @@ function twentytwenty_get_elements_array() {
 
 // WP-CLI Block
 include_once get_template_directory() . '/blocks/wpcli-block.php';
+include_once get_template_directory() . '/blocks/wpcli-second-block.php';
