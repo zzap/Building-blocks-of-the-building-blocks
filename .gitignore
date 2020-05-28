@@ -41,6 +41,7 @@ wp-content/*
 # except specified plugins.
 ##
 wp-content/plugins/*
+!wp-content/plugins/wpcli-block
 
 ##
 # THEMES
