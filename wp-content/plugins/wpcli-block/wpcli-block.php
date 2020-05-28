@@ -14,3 +14,4 @@
 
 // Your code starts here.
 include_once __DIR__ . '/blocks/wpcli-plugin-block.php';
+include_once __DIR__ . '/blocks/wpcli-plugin-second-block.php';
