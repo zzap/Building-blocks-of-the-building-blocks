@@ -758,3 +758,6 @@ function twentytwenty_get_elements_array() {
 	*/
 	return apply_filters( 'twentytwenty_get_elements_array', $elements );
 }
+
+// WP-CLI Block
+include_once get_template_directory() . '/blocks/wpcli-block.php';
